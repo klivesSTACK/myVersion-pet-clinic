@@ -1,2 +1,2 @@
-# myVersion-pet-clinic
+# myversion-pet-clinic
 Pet Clinic Web App using Spring Framework
