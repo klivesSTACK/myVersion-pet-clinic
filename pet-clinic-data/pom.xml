@@ -47,8 +47,7 @@
             <exclusions>
                 <exclusion>
                     <groupId>junit</groupId>
-                    <artifactId>j
-                        unit</artifactId>
+                    <artifactId>junit</artifactId>
                 </exclusion>
             </exclusions>
         </dependency>
