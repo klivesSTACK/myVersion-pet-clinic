@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>myversion-pet-clinic</artifactId>
-    <version>3.0.0-M6</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -37,16 +37,17 @@
           </plugin>
           <plugin>
               <groupId>org.apache.maven.plugins</groupId>
-              <artifactId>maven-clean-plugin</artifactId>
+              <artifactId>maven-release-plugin</artifactId>
               <configuration>
                   <goal>install</goal>
+                  <autoVersionSubmodules>true</autoVersionSubmodules>
               </configuration>
           </plugin>
       </plugins>
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/klivesSTACK/myVersion-pet-clinic.git</developerConnection>
-      <tag>main</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
