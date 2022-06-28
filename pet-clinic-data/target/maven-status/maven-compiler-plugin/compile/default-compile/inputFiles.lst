@@ -1,5 +1,9 @@
-D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\Model\Person.java
-D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\Model\Owner.java
-D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\Model\Vet.java
-D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\Model\Pet.java
-D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\Model\PetType.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\model\Person.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\model\BaseEntity.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\model\Owner.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\services\OwnerService.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\services\PetService.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\services\VetService.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\model\Vet.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\model\Pet.java
+D:\SpringDemo\myVersion-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\myversionpetclinic\model\PetType.java

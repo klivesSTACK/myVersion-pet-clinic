@@ -1,5 +1,9 @@
-guru\springframework\myversionpetclinic\Model\Person.class
-guru\springframework\myversionpetclinic\Model\PetType.class
-guru\springframework\myversionpetclinic\Model\Pet.class
-guru\springframework\myversionpetclinic\Model\Vet.class
-guru\springframework\myversionpetclinic\Model\Owner.class
+guru\springframework\myversionpetclinic\services\OwnerService.class
+guru\springframework\myversionpetclinic\model\Pet.class
+guru\springframework\myversionpetclinic\services\PetService.class
+guru\springframework\myversionpetclinic\model\Vet.class
+guru\springframework\myversionpetclinic\model\Person.class
+guru\springframework\myversionpetclinic\model\PetType.class
+guru\springframework\myversionpetclinic\model\Owner.class
+guru\springframework\myversionpetclinic\model\BaseEntity.class
+guru\springframework\myversionpetclinic\services\VetService.class

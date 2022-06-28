@@ -37,16 +37,16 @@
           </plugin>
           <plugin>
               <groupId>org.apache.maven.plugins</groupId>
-              <artifactId>maven-clean-plugin</artifactId>
-              <version>3.2.0</version>
+              <artifactId>maven-release-plugin</artifactId>
               <configuration>
                   <goal>install</goal>
+                  <autoVersionSubmodules>true</autoVersionSubmodules>
               </configuration>
           </plugin>
       </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/klivesSTACK/myVersion-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:klivesSTACK/myversion-pet-clinic.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
