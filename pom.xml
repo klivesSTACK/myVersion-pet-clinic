@@ -47,7 +47,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:klivesSTACK/myVersion-pet-clinic.git</developerConnection>
-      <tag>main</tag>
+      <tag>myversion-pet-clinic-3.0.0-M7</tag>
   </scm>
 
 </project>
