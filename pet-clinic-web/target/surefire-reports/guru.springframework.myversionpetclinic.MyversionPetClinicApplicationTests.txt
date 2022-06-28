@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: guru.springframework.myversionpetclinic.MyversionPetClinicApplicationTests
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.647 s - in guru.springframework.myversionpetclinic.MyversionPetClinicApplicationTests
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.645 s - in guru.springframework.myversionpetclinic.MyversionPetClinicApplicationTests
+>>>>>>> 52dfe62 ([maven-release-plugin] prepare release myversion-pet-clinic-3.0.0-M7)
