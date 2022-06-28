@@ -46,7 +46,7 @@
       </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/klivesSTACK/myVersion-pet-clinic.git</developerConnection>
+        <developerConnection>git@github.com:klivesSTACK/myVersion-pet-clinic.git</developerConnection>
       <tag>myversion-pet-clinic</tag>
   </scm>
 
