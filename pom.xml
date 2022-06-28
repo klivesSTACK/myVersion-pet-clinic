@@ -38,7 +38,6 @@
           <plugin>
               <groupId>org.apache.maven.plugins</groupId>
               <artifactId>maven-clean-plugin</artifactId>
-              <version>3.2.0</version>
               <configuration>
                   <goal>install</goal>
               </configuration>
@@ -46,7 +45,7 @@
       </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git@github.com:klivesSTACK/myVersion-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:klivesSTACK/myVersion-pet-clinic.git</developerConnection>
       <tag>main</tag>
   </scm>
 
