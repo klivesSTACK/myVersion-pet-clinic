@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>myversion-pet-clinic</artifactId>
-    <version>3.0.0-M8-SNAPSHOT</version>
+    <version>3.0.0-M7-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
