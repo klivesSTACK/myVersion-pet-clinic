@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>myversion-pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>3.0.0-M8-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -47,6 +47,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/klivesSTACK/myVersion-pet-clinic.git</developerConnection>
-    </scm>
+      <tag>HEAD</tag>
+  </scm>
 
 </project>
